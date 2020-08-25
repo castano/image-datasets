@@ -24,7 +24,7 @@ From http://links.uwaterloo.ca/Repository.html
 | <img src="waterloo\peppers.png" /> | <img src="waterloo\sail.png" />    | <img src="waterloo\serrano.png" /> | <img src="waterloo\tulips.png" />  |
 
 
-## Waterloo Image Repository Colour Set
+## Waveren Normal Map Set
 
 Normal maps from [Real-Time Normal Map DXT Compression](https://www.mrelusive.com/publications/papers/Real-Time-Normal-Map-Dxt-Compression.pdf), J.M.P. van Waveren, Ignacio Castaño.
 
