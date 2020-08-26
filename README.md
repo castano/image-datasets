@@ -34,3 +34,13 @@ Normal maps from [Real-Time Normal Map DXT Compression](https://www.mrelusive.co
 | <img src="waveren\tnmap\05_lumpy.png" />  | <img src="waveren\tnmap\06_voronoi.png" />  | <img src="waveren\tnmap\07_turtle.png" />  | <img src="waveren\tnmap\08_normalmap.png" /> |
 | <img src="waveren\tnmap\09_metal.png" />  | <img src="waveren\tnmap\10_skin.png" />     | <img src="waveren\tnmap\11_onetile.png" /> | <img src="waveren\tnmap\12_barrel.png" />    |
 | <img src="waveren\tnmap\13_arcade.png" /> | <img src="waveren\tnmap\14_tentacle.png" /> | <img src="waveren\tnmap\15_chest.png" />   | <img src="waveren\tnmap\16_face.png" />      |
+
+## Sachin's Image Compression Set
+
+From https://imagecompression.info/test_images/
+
+| <img src="sachin\artificial.png" />         | <img src="sachin\big_building.png" />   | <img src="sachin\big_tree.png" />        | <img src="sachin\bridge.png" />            |
+|---------------------------------------------|-----------------------------------------|------------------------------------------|--------------------------------------------|
+| <img src="sachin\cathedral.png" />          | <img src="sachin\deer.png" />           | <img src="sachin\fireworks.png" />       | <img src="sachin\flower_foveon.png" />     |
+| <img src="sachin\hdr.png" />                | <img src="sachin\leaves_iso_200.png" /> | <img src="sachin\leaves_iso_1600.png" /> | <img src="sachin\nightshot_iso_100.png" /> |
+| <img src="sachin\nightshot_iso_1600.png" /> | <img src="sachin\spider_web.png" />     | <img src="sachin\zone_plate.png" />      |                                            |
