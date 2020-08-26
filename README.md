@@ -22,6 +22,7 @@ From http://links.uwaterloo.ca/Repository.html
 | <img src="waterloo\clegg.png" />   | <img src="waterloo\frymire.png" /> | <img src="waterloo\lena.png" />    | <img src="waterloo\monarch.png" /> |
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|
 | <img src="waterloo\peppers.png" /> | <img src="waterloo\sail.png" />    | <img src="waterloo\serrano.png" /> | <img src="waterloo\tulips.png" />  |
+| <img src="waterloo\baboon.png" />  |                                    |                                    |                                    |
 
 
 ## Waveren Normal Map Set
@@ -35,6 +36,7 @@ Normal maps from [Real-Time Normal Map DXT Compression](https://www.mrelusive.co
 | <img src="waveren\tnmap\09_metal.png" />  | <img src="waveren\tnmap\10_skin.png" />     | <img src="waveren\tnmap\11_onetile.png" /> | <img src="waveren\tnmap\12_barrel.png" />    |
 | <img src="waveren\tnmap\13_arcade.png" /> | <img src="waveren\tnmap\14_tentacle.png" /> | <img src="waveren\tnmap\15_chest.png" />   | <img src="waveren\tnmap\16_face.png" />      |
 
+
 ## Sachin's Image Compression Set
 
 From https://imagecompression.info/test_images/
@@ -44,3 +46,13 @@ From https://imagecompression.info/test_images/
 | <img src="sachin\cathedral.png" />          | <img src="sachin\deer.png" />           | <img src="sachin\fireworks.png" />       | <img src="sachin\flower_foveon.png" />     |
 | <img src="sachin\hdr.png" />                | <img src="sachin\leaves_iso_200.png" /> | <img src="sachin\leaves_iso_1600.png" /> | <img src="sachin\nightshot_iso_100.png" /> |
 | <img src="sachin\nightshot_iso_1600.png" /> | <img src="sachin\spider_web.png" />     | <img src="sachin\zone_plate.png" />      |                                            |
+
+
+## Additional Resources
+
+There are many sites offering high quality PBR textures in the [public domain (CC0)](https://creativecommons.org/publicdomain/zero/1.0/). These collections are too large to include here, but I plan to create a small representative subset that is useful for benchmarking.
+
+- [CC0 Textures](https://cc0textures.com/) by Lennart Demes
+- [Texture Haven](https://texturehaven.com/textures/) by Rob Tuytel
+- [cgbookcase](https://www.cgbookcase.com/textures/) by Dorian Zgraggen
+
